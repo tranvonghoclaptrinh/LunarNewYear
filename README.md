@@ -228,10 +228,10 @@ Thay thế Emoji bằng `<img>` tags:
 ### 5. Cập Nhật Liên Hệ
 Sửa thông tin footer:
 ```html
-<p><strong>Email:</strong> your-email@example.com</p>
-<p><strong>Điện thoại:</strong> (+84) XXX-XXX-XXX</p>
-<a href="mailto:your-email@example.com">Gmail</a>
-<a href="tel:+84123456789">Phone</a>
+<p><strong>Email:</strong> tranhuuvong23092006@gmail.com</p>
+<p><strong>Điện thoại:</strong> (+84) 378 133 348</p>
+<a href="mailto:tranhuuvong23092006@gmail.com">Gmail</a>
+<a href="tel:+84378133348">Phone</a>
 ```
 
 ---
@@ -331,9 +331,9 @@ Tự do sử dụng, tùy chỉnh cho mục đích cá nhân/thương mại.
 
 ## 📞 Liên Hệ
 
-- **Email**: info@tetdongnai.vn
-- **Điện Thoại**: (+84) 251-3839-839
-- **Địa Chỉ**: Biên Hòa, Đồng Nai, Việt Nam
+- **Email**: tranhuuvong23092006@gmail.com
+- **Điện Thoại**: (+84) 378-133-348
+- **Địa Chỉ**: Long Thành, Đồng Nai, Việt Nam
 
 ---
 
