@@ -235,3 +235,31 @@ window.addEventListener('scroll', showScrollToTopButton);
 // ===== LOG INITIALIZATION =====
 console.log('🎊 Website Tết Đồng Nai 2024 - Xuân Giáp Thìn');
 console.log('📰 Website được thiết kế với tình yêu và tôn trọng nền văn hóa Việt Nam');
+
+const panel = document.getElementById("culturePanel")
+const title = document.getElementById("cultureTitle")
+const content = document.getElementById("cultureContent")
+
+document.querySelectorAll(".culture-open-btn").forEach(btn=>{
+
+    btn.onclick=()=>{
+
+        title.innerText = btn.dataset.title
+        content.innerText = btn.dataset.content
+
+        panel.style.display="flex"
+
+    }
+
+})
+
+document.querySelector(".culture-close-btn").onclick=()=>{
+
+    panel.style.display="none"
+
+}
+
+panel.onclick=(e)=>{
+    if(e.target===panel)
+        panel.style.display="none"
+}
