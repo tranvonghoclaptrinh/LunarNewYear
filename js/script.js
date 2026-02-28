@@ -1,5 +1,5 @@
 /**
- * Website Tết Đồng Nai 2024 - JavaScript
+ * Website Tết Đồng Nai 2026 - JavaScript
  * Xử lý menu responsive, smooth scroll, hiệu ứng
  * ================================================
  */
@@ -178,7 +178,7 @@ if (isMobileDevice()) {
 // ===== PAGE LOAD ANIMATION =====
 window.addEventListener('load', function() {
     document.body.classList.add('loaded');
-    console.log('✨ Website Tết Đồng Nai 2024 tải thành công!');
+    console.log('✨ Website Tết Đồng Nai 2026 tải thành công!');
     console.log('🎊 Chúc bạn có một năm mới an lành và thịnh vượng!');
 });
 
@@ -233,7 +233,7 @@ function scrollToTop() {
 window.addEventListener('scroll', showScrollToTopButton);
 
 // ===== LOG INITIALIZATION =====
-console.log('🎊 Website Tết Đồng Nai 2024 - Xuân Giáp Thìn');
+console.log('🎊 Website Tết Đồng Nai 2026 - Xuân Bính Ngọ');
 console.log('📰 Website được thiết kế với tình yêu và tôn trọng nền văn hóa Việt Nam');
 
 const panel = document.getElementById("culturePanel")
