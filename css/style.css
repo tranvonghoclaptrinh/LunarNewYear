@@ -337,7 +337,7 @@ flex: 1;
 /* ===== HERO BANNER ===== */
 .hero-banner {
 position: relative;
-background: url("assets/banner.jpg") center/cover no-repeat;
+background: url("../assets/banner.jpg") center/cover no-repeat;
 padding: 100px var(--spacing-xl);
 border-radius: 16px;
 margin-bottom: var(--spacing-2xl);
